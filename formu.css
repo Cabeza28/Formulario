@@ -1,0 +1,64 @@
+*{
+	margin:0px;
+}
+body{
+	background:#FF8B94;
+}
+header,footer{
+	background:#A83850;
+	font-family: 'Lora', serif;
+}
+header{
+	text-align:center;
+}
+footer{
+	text-align:right;
+}
+main{
+	background:#ECEDB5;
+	height:650px;
+}
+div{
+	margin:auto;
+	background:#D6D6A3;
+	width:300px;
+	height:200px;
+	border:3px solid black;
+}
+form{
+
+	
+	
+}
+label{
+	margin-left:25%
+}
+input{
+	text-align:center;
+	border-radius:10px;
+	border-color:black;
+	background:#FFFFFF;
+}
+input{
+	align-items:right;
+}
+.datos{
+	margin:5px;
+	margin-left:25%
+}
+.enviar{
+	margin-left:80%;
+}
+.enviar:hover{
+	color:#73E06D;
+}
+a{
+	color:black;
+	text-decoration:none;
+	font-size:12px; 
+}
+a:hover{
+	font-size:20px;
+	color:#ED1933;
+}
+
